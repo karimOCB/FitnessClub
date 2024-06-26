@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FitnessClub/static/css/main.32ece884.css",
+    "main.js": "/FitnessClub/static/js/main.83756399.js",
+    "static/media/banner.png": "/FitnessClub/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/waist.png": "/FitnessClub/static/media/waist.0d20b79039c35fea728f.png",
+    "static/media/cardio.png": "/FitnessClub/static/media/cardio.8909a57e0838004067bd.png",
+    "static/media/lower legs.png": "/FitnessClub/static/media/lower legs.bd75532b276c7c4d3134.png",
+    "static/media/neck.png": "/FitnessClub/static/media/neck.8f4d1121dcd11507ea0c.png",
+    "static/media/chest.png": "/FitnessClub/static/media/chest.799ef1ea24bf927c1973.png",
+    "static/media/upper arms.png": "/FitnessClub/static/media/upper arms.598efc1fea4c61f32ea5.png",
+    "static/media/back.png": "/FitnessClub/static/media/back.7ad0b7dc9fc5c193d178.png",
+    "static/media/shoulders.png": "/FitnessClub/static/media/shoulders.9b2c21b6ead54f905c00.png",
+    "static/media/all.png": "/FitnessClub/static/media/all.6e701417c428e2fbc267.png",
+    "index.html": "/FitnessClub/index.html",
+    "main.32ece884.css.map": "/FitnessClub/static/css/main.32ece884.css.map",
+    "main.83756399.js.map": "/FitnessClub/static/js/main.83756399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32ece884.css",
+    "static/js/main.83756399.js"
+  ]
+}
